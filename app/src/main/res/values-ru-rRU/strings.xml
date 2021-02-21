@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast_note_name" translatable="false">Поле не может быть пустым.</string>
+    <string name="email_hint" translatable="false">Логин</string>
+    <string name="password_hint" translatable="false">Пароль</string>
+    <string name="Start_btn_login" translatable="false">ВОЙТИ</string>
+    <string name="title">"Заметки "</string>
+    <string name="error_enter_password_login">Введите пароль и почту.</string>
+    <string name="local">Notes</string>
+    <string name="top_secret">мои акаунты</string>
+</resources>
